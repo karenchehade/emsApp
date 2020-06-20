@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079075101823",
+    "firebase_url": "https://flutter-project-8abc8.firebaseio.com",
+    "project_id": "flutter-project-8abc8",
+    "storage_bucket": "flutter-project-8abc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079075101823:android:7ef4f73145f8669a18f34a",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079075101823-fa59l8ipukcsm0i4hhk65rphaja69bh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKkfuIBiuSs_EXp2h2u-lSO7h78ZmpD9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079075101823-fa59l8ipukcsm0i4hhk65rphaja69bh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993469930461",
+    "firebase_url": "https://ems-app-2072d.firebaseio.com",
+    "project_id": "ems-app-2072d",
+    "storage_bucket": "ems-app-2072d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993469930461:android:a013b5a5f77cda26a37434",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993469930461-i0frbmm8hhsq36leemgc46cdg654gapl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.smallacademy.authenticatorapp",
+            "certificate_hash": "040e871ea67f981323568197b43f7c134f88fb56"
+          }
+        },
+        {
+          "client_id": "993469930461-7luu9klj4d7ght5lbqled3mqfmtg8jfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWY7HFjQUcpcTbJxXH5CDcJOloPNBdrAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993469930461-7luu9klj4d7ght5lbqled3mqfmtg8jfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

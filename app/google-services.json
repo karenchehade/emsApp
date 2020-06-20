@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288223718704",
+    "firebase_url": "https://emsapp-6c573.firebaseio.com",
+    "project_id": "emsapp-6c573",
+    "storage_bucket": "emsapp-6c573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288223718704:android:6a2cc75972ef96a35eacf5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288223718704-u8c3tjv3re18eh9367t6busq7qnnb7c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NkAvrWMNJAMhAirA1k-_oRgSyzVuNXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288223718704-u8c3tjv3re18eh9367t6busq7qnnb7c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
